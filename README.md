@@ -3,7 +3,7 @@
 
 No terminal, abra o diterório src dentro do workspace ROS (ros_ws) e faça o clone do pacote:
 ```
-cd ~/ros2_ws/src && git clone git@github.com:arthur990914/turtle_control_AOM.git
+cd ~/ros2_ws/src && git clone https://github.com/Arthur990914/turtle_control_AOM.git
 ```
 Retorne no diretório raiz do workspace e faça o build e setup:
 ```
